@@ -9,7 +9,6 @@
         <p>• 📚 Currently pursuing bachelor's in Pune Institute Of Computer Technology 💻 <b>Full Stack development 👩🏻‍💻 trying to get my first experience as a developer 🚀 Looking forward to work in positive environment to accomplish projects
 </b></p>
         <p>• ℹ️ Hobbies: <b>Trekking ⛰️ | Music 🎧 | Painting 🎨 | </b></p>
-        <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
         <p>• 📫 How to reach me: <b>nehanemade466@gmail.com</b></p>
 </div><br>
 
